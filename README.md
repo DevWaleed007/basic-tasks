@@ -1,1 +1,1 @@
-# basic-tasks
+UI Design Bootcamp. Master Typography, Color & Grids
